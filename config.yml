@@ -1,4 +1,117 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
-theme: "PaperMod"
+baseURL: "https://hoanhan.co"
+title: Hoanh An
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-155884327-1
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Hoanh An
+    description: "Hoanh An's Blog"
+    # author: Me
+    # author: ["Me", "You"] # multiple authors
+    # images: ["<link or path of image for opengraph, twitter-cards>"]
+
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    disableSpecial1stPost: false
+    comments: true
+    hidemeta: false
+    showtoc: true
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: "<link / abs url>"
+        favicon16x16: "<link / abs url>"
+        favicon32x32: "<link / abs url>"
+        apple_touch_icon: "<link / abs url>"
+        safari_pinned_tab: "<link / abs url>"
+
+    label:
+        text: "Home"
+        # icon: /apple-touch-icon.png
+        # iconHeight: 35
+
+    profileMode:
+        enabled: false # needs to be explicitly set
+        title: Hoanh An
+        subtitle: "This is subtitle"
+        imageUrl: "<img location>"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my image
+        buttons:
+            - name: Posts
+              url: posts
+            - name: Tags
+              url: tags
+
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: I’m Hoanh, a software engineer and author. I've created [The Ultimate-Go Study Guide](https://github.com/hoanhan101/ultimate-go) to help people learn Go programming language better. The project has over 14K+ 🌟 on GitHub and an [eBook version](https://gumroad.com/l/bpUYF) that has sold over 3K+ copies in the first month of August 2020. Now, this blog is a new project of mine where I plan to share what I learn on different topics of software engineering, product development, entrepreneurship, decision making, wealth and happiness. Or really, whatever I am curious about at the time. I believe that by self-educating on these topics, I am investing a great deal in myself, my knowledge onto the world, my hobbies, my relationships that could help me live a more meaningful and fulfilling life. And this is just as important as mastering my technical craft. Hope you find that interesting and helpful too!
+
+    socialIcons:
+        - name: linkedin
+          url: "https://www.linkedin.com/in/hoanhan101/"
+        - name: github
+          url: "https://github.com/hoanhan101"
+        - name: twitter
+          url: "https://twitter.com/hoanhan101"
+
+    analytics:
+        google:
+            SiteVerificationTag: "TODO"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    # search - ref: https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: true
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: archives
+          name: Archives
+          url: /archives/
+          weight: 5
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 10
+        - identifier: categories
+          name: Categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
