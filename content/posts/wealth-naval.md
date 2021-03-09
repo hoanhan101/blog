@@ -1,8 +1,8 @@
 ---
 title: "How To Make Wealth by Naval Ravikant"
-date: "2011-01-17"
+date: "2021-01-17"
 description: "Give society what it wants, but doesn't know how to get yet, at scale."
-tags: ["wealth"]
+tags: ["wealth", "money", "luck"]
 categories: ["reading-notes"]
 ---
 

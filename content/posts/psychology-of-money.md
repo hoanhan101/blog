@@ -1,6 +1,6 @@
 ---
 title: "The Psychology of Money by Morgan Housel"
-date: "2011-01-17"
+date: "2021-01-17"
 description: "Doing well with money has a little to do with how smart you are and a lot to do with how you behave."
 tags: ["wealth", "greed", "happiness", "investing"]
 categories: ["reading-notes"]
