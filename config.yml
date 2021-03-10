@@ -1,6 +1,6 @@
 baseURL: "https://affectionate-neumann-b21777.netlify.app/"
 title: Hoanh An
-paginate: 5
+paginate: 8
 theme: PaperMod
 
 enableRobotsTXT: true
