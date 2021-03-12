@@ -1,0 +1,106 @@
+---
+title: "The Millionaire Fastlane by MJ DeMarco"
+date: "2019-07-17"
+description: "How starting a business is the fastest way to build wealth."
+tags: ["wealth", "investing", "business"]
+categories: ["reading-notes"]
+showtoc: false
+---
+
+- The Slowlane is to get a good job, invest in the stock market, max out your 401k and be rich by 65.
+  - It demands a long time of employment.
+  - You have limited leverage and limited control with a job.
+    - Fixed income: the pay rate is fixed for a year and it takes a long time to get a raise.
+    - Fixed hours: you can only do so much.
+  - $10,000 investment with 15% return will worth $2.5 millions in 40 years.
+    - 15% consistence is impossible.
+    - $2.5 millions only worth $250k in today dollars thanks for inflation!
+    - You will likely not have the youth to experience the millionaire lifestyle by then anyway.
+  - Have you ever known a person who got rich by doing this? What would their lives be like?
+- The Fastlane is to build a system/product that will leverage the work and help millions of people.
+  - The amount of money in your life is a reflection to the amount of value you have given to others.
+  - In order to make millions, impact millions. The more lives you impact, the more wealth you attract.
+  - Become a producer (minority) instead of a consumer (majority):
+    - Instead of buying products, sell products.
+    - Instead of taking a class, offer a class.
+    - Instead of borrowing money, lend it.
+    - Instead of taking a job, hire for job.
+  - Examples:
+    - Create a gadget and sell millions of them.
+    - Build a mobile app and sell millions of them.
+    - Build a blog and sell it for millions.
+    - Build a website that profits.
+- Compound interest is most effective with a large sum of money.
+  - Fastlaners use it not to build wealth but to create income and liquidity.
+  - Slowlaners starts with $5 while fastlaners starts with $5 millions.
+  - 5% of $10 millions would be 500k a year.
+- 5 Fastlane commandments:
+  - Need:
+    - Do what you love is bullshit because it doesn’t make money and it endangers the love.
+    - No one cares about your desire or dream but what your business can do for them.
+    - Add values to their lives, help them, educate them:
+      - Make them feel better, look better (health, nutrition, clothing, makeup).
+      - Give them security (housing, safety, health).
+      - Raise a positive emotion (love, happiness, laughter, confidence).
+      - Satisfy appetites (from food to sex).
+    - Instead of chasing money, chase needs.
+  - Entry:
+    - Easy entry creates high competitions and high traffic.
+    - Being exceptional is required to enter weak entry barriers.
+  - Control:
+    - You want to be at the top of the food chain, sell franchises, pyramid, system not join them.
+    - Control your system, your money tree and your brand.
+  - Scale:
+    - Can it scale to millions?
+  - Time:
+    - Can the system be self-automated without you being there all the time?
+- Fastlane business patterns:
+  - Internet business
+    - Subscription-based: x-as-a-service (Netflix).
+    - Content-based: provide content for free consumption and sell advertising (Spotify).
+    - Lead generation: provide a service while bringing fragmented industries together.
+    - Social network: spin-off of content system but pull people into group and tribes instead.
+    - Brokerage system: bring buyers and sells together and facilities transaction (PayPal, eBay).
+    - Advertising: similar to brokerage but also runs ads.
+    - E-commerce: online marketplace (Amazon).
+  - Innovation.
+    - Manufacture + distribution.
+    - Not about inventing something completely new but taking something and improving it (vokda in a new colorful bottle).
+    - Writing a book is not a business, selling the book is.
+  - Intentional iteration - basically repeat a success, a chaining or a franchise.
+- Opportunity is rarely about some blockbuster breakthrough but as simple as an unmet need:
+  - Solution to an inconvenience.
+  - Simplification.
+  - Comfort.
+  - Better service.
+  - Fixing pain.
+- Common phrases to spot a possible opportunity:
+  - "I hate..."
+  - "I don’t like..."
+  - "This frustrates me..."
+  - "Why is it like this..."
+  - "Do i have to..."
+  - "I wish there was..."
+  - "I’m tired of..."
+  - "This sucks..."
+- Execution is king.
+  - If you want investors, get out and execute. Create a prototype, brand, track of records that others can see or touch.
+  - You learn from engagement, doing things, getting exposure,...  more so than any book or professor.
+  - Sometime you need to learn it the hard way.
+    - Warning people about a hot fire doesn't work - they need to feel the burn themselves. 
+    - People don’t care about improving their lives unless they have experiences hardship - shitty job, shitty boss, shitty commute, meaningless life,… 
+    - That said, have a strong motive and just do it.
+- Your last business - What to do about millions once you have accumulated them.
+  - Money can be allocated into 3 pots: fuck-you (FU) pot, home pot and paycheck pot.
+  - The FU pot is idle cash sitting in saving accounts usually doing nothing. The points of FU pot is about choices so that you can do whatever you want with it without it being endanger your lifestyle.
+  - The home pot is your home without a mortgage. Since your biggest expense will your home, removing this expense means money will no longer an issue. Alternatively, your paycheck pot can be big enough to pay your mortgage without an issue.
+  - The paycheck pot is a passive-income system of financial instruments such as stock dividends, bond interest, loan, and so on. Regardless, here are the rules:
+    - Any investment that carries an unstated return is a 50-50 coin flip. You should focus on one that pays monthly or quarterly.
+    - Your investment must recallable back to cash within 24 hours or seconds so you can be safe.
+    - Your investment should only be trusted to largely recognized companies.
+    - If your investment appreciates unrealized gains greater or equal to 3 years in any 3-month period, sell and take the profits.
+    - Your portfolio should be boring. If it's too good, consider using the FU pot instead.
+    - Avoid any fund with a management fee greater than 1%.
+
+**References:**
+- <http://www.themillionairefastlane.com/>
