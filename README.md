@@ -11,4 +11,4 @@ up                   Start Hugo server
 
 ## Deploying
 
-Each Git push deploys to [Netlify](https://www.netlify.com/). Final build is available at [hoanhan.co](hoanhan.co).
+Each Git push deploys to [Netlify](https://www.netlify.com/). Final build is available at [hoanhan.co](https://hoanhan.co/).
