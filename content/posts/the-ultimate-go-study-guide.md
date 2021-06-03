@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Go Study Guide"
+title: "📌 The Ultimate Go Study Guide"
 date: "2020-08-25"
 description: "For the last 3 months or so, I have spent most of my free time putting together Ultimate Go Study Guide into a 200-page book."
 tags: ["go", "ultimate-go"]

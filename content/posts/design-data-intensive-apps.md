@@ -1,5 +1,5 @@
 ---
-title: "Designing Data-Intensive Applications by Martin Kleppmann"
+title: "📌 Designing Data-Intensive Applications by Martin Kleppmann"
 date: "2020-07-05"
 description: "Principles and practicalities of data systems and how to build data-intensive applications."
 tags: ["system", "design", "data"]

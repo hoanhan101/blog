@@ -1,5 +1,5 @@
 ---
-title: "How To Grow And Level Up As A Software Engineer"
+title: "📌 How To Grow And Level Up As A Software Engineer"
 date: "2020-12-15"
 description: "Based on CircleCI Engineering Competency Matrix, let's learn more about different growth opportunities as well as how we can level up our career."
 tags: ["engineer", "growth"]

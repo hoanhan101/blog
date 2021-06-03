@@ -1,5 +1,5 @@
 ---
-title: "A Guide to the Good Life by William Braxton Irvine"
+title: "📌 A Guide to the Good Life by William Braxton Irvine"
 date: "2020-04-26"
 description: "Psychological techniques and advice to practice Stoicism for attaining a good life."
 tags: ["stoic", "happiness", "wealth", "life", "death"]
