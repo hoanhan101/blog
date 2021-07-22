@@ -1,5 +1,5 @@
 ---
-title: "Idea's frequency and intensity analysis by Michael Seibel"
+title: "Frequency and Intensity Analysis by Michael Seibel"
 date: "2021-07-20"
 description: "How not to start a startup and how to better evaluate startup ideas."
 tags: ["wealth", "startup", "idea"]
