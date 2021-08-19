@@ -7,13 +7,13 @@ showtoc: false
 weight: 1
 ---
 
-2 years ago, in August 2019, I shared this [Ultimate Go Study Guide project on GitHub](https://github.com/hoanhan101/ultimate-go) and started to see some interests from the community.
+2 years ago, in August 2019, I shared this [Ultimate Go Study Guide project on GitHub](https://github.com/hoanhan101/ultimate-go) and started to see some interest from the community.
 
 1 year ago, in August 2020, the project had over 11K stars, 900 forks with the help of more than 20 contributors. At the same time, I published [The Ultimate Go Study Guide eBook](https://gum.co/bpUYF) because many people had asked for an eBook version.
 
-Only a few months later, [Bill Kennedy](https://twitter.com/goinggodotnet) reached out with an opportunity for both us to publish the book on Amazon and make it even more accessible for everyone.
+Only a few months later, [Bill Kennedy](https://twitter.com/goinggodotnet) reached out with an opportunity for both of us to publish the book on Amazon and make it even more accessible for everyone.
 
-Now, today in August 2021, I'm happy to share a good news that the book is now available on Amazon and it's called "Ultimate Go Notebook".
+Now, today in August 2021, I'm happy to share the good news that the book is now available on Amazon and it's called "Ultimate Go Notebook".
 
 > [Here is the link to the product page →](https://www.amazon.com/dp/1737384426/).
 
