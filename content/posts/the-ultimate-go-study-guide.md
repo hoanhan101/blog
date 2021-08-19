@@ -5,7 +5,6 @@ description: "For the last 3 months or so, I have spent most of my free time put
 tags: ["go", "ultimate-go"]
 categories: ["product-releases"]
 showtoc: false
-weight: 1
 ---
 
 A year ago, in August 2019, I shared this [Ultimate Go Study Guide project on GitHub](https://github.com/hoanhan101/ultimate-go), and surprisingly, it got a lot of attention from the community.
