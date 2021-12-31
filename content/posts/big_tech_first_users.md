@@ -1,5 +1,5 @@
 ---
-title: "How big tech got their first users by Lenny Rachitsky"
+title: "How 40+ big tech got their first users by Lenny Rachitsky"
 date: "2021-12-30"
 tags: ["startup", "traction"]
 categories: ["reading-notes"]
